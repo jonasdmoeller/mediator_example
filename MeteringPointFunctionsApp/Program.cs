@@ -13,7 +13,7 @@ namespace MeteringPointFunctionsApp
                 .ConfigureFunctionsWorkerDefaults()
                 .ConfigureServices(services =>
                 {
-                    services.AddScoped<IDataAccess, DataAccess>();
+                    services.AddSingleton<IDataAccess, DataAccess>();
                     services.AddMediatR(typeof(DataAccess).Assembly);
                 })
                 .Build();
