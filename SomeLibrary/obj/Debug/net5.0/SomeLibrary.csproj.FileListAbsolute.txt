@@ -1,0 +1,12 @@
+C:\Projects\test-projects\MediatorExample\SomeLibrary\bin\Debug\net5.0\SomeLibrary.deps.json
+C:\Projects\test-projects\MediatorExample\SomeLibrary\bin\Debug\net5.0\SomeLibrary.dll
+C:\Projects\test-projects\MediatorExample\SomeLibrary\bin\Debug\net5.0\ref\SomeLibrary.dll
+C:\Projects\test-projects\MediatorExample\SomeLibrary\bin\Debug\net5.0\SomeLibrary.pdb
+C:\Projects\test-projects\MediatorExample\SomeLibrary\obj\Debug\net5.0\SomeLibrary.csproj.AssemblyReference.cache
+C:\Projects\test-projects\MediatorExample\SomeLibrary\obj\Debug\net5.0\SomeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\test-projects\MediatorExample\SomeLibrary\obj\Debug\net5.0\SomeLibrary.AssemblyInfoInputs.cache
+C:\Projects\test-projects\MediatorExample\SomeLibrary\obj\Debug\net5.0\SomeLibrary.AssemblyInfo.cs
+C:\Projects\test-projects\MediatorExample\SomeLibrary\obj\Debug\net5.0\SomeLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\test-projects\MediatorExample\SomeLibrary\obj\Debug\net5.0\SomeLibrary.dll
+C:\Projects\test-projects\MediatorExample\SomeLibrary\obj\Debug\net5.0\ref\SomeLibrary.dll
+C:\Projects\test-projects\MediatorExample\SomeLibrary\obj\Debug\net5.0\SomeLibrary.pdb
